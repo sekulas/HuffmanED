@@ -1,4 +1,4 @@
-# Huffman_Encoding-Decoding
+# HuffmanED
 Encodes and decodes given text using Huffman Coding.
 Project was made during 3rd term of my CS studies - Algorithms and Data Structures - Warsaw University of Technology.
 
